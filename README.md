@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="./banner.svg" alt="THE_VOID Banner"/>
+<img width="100%" src="./assets/banner.svg" alt="THE_VOID Banner"/>
 
-<img width="100%" src="./purple-bg.svg"/>
+<img width="100%" src="./assets/purple-bg.svg"/>
 
 <br>
 
-<img src="./logo.svg" width="150" alt="THE_VOID Logo">
+<img src="./assets/logo.svg" width="150" alt="THE_VOID Logo">
 
 # 👑 Welcome To My GitHub Profile
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<p align="center"><img src="./divider.svg" width="100%"></p>
+<p align="center"><img src="./assets/divider.svg" width="100%"></p>
 
 # 💜 About Me
 
@@ -35,8 +35,8 @@ GitHub: [https://github.com/MUSSA45569](https://github.com/MUSSA45569)
 Repository: [https://github.com/MUSSA45569/TheVoidDev](https://github.com/MUSSA45569/TheVoidDev)
 Role: Full Stack Developer
 Specialization:
-  • Discord Bots
-  • Minecraft Development
-  • Automation Tools
-  • Web Applications
+  - Discord Bots
+  - Minecraft Development
+  - Automation Tools
+  - Web Applications
 Status: Active 🟢
