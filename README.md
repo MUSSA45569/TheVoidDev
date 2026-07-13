@@ -1,11 +1,10 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="THE_VOID Banner"/>
-<img width="100%" src="./assets/purple-bg.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/MUSSA45569/TheVoidDev/main/assets/banner.svg" alt="THE_VOID Banner"/>
 
 <br><br>
 
-<img src="./assets/logo.svg" width="150" alt="THE_VOID Logo">
+<img src="https://raw.githubusercontent.com/MUSSA45569/TheVoidDev/main/assets/logo.svg" width="150" alt="THE_VOID Logo">
 
 # 👑 Welcome To My GitHub Profile
 
@@ -23,7 +22,7 @@
 
 </div>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MUSSA45569/TheVoidDev/main/assets/divider.svg" width="100%"></p>
 
 # 💜 About Me
 
