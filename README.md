@@ -192,9 +192,7 @@ https://github.com/MUSSA45569/TheVoidDev
 **Discord ID:** `1297901510679597188`
 
 ### GitHub
-
-https://github.com/MUSSA45569
-
+(https://github.com/MUSSA45569/TheVoidDev)
 ---
 
 <div align="center">
