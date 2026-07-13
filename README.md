@@ -1,104 +1,100 @@
 <!-- ========================================================= -->
-<!--               THE_VOID • ROYAL PURPLE README              -->
+<!--                  👑 THE_VOID | README.md                   -->
+<!--                  ROYAL PURPLE EDITION                     -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6A0DAD&text=THE_VOID&fontColor=FFFFFF&fontSize=70&fontAlignY=40&desc=Software%20Developer%20•%20Open%20Source%20•%20Minecraft%20Developer&descAlignY=63&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6A0DAD&text=THE_VOID&fontColor=ffffff&fontSize=65&fontAlignY=40&desc=Software%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Minecraft%20Developer&descAlignY=62&animation=fadeIn"/>
 
-# 👑 THE_VOID
+# 👑 Welcome To My GitHub Profile
 
-### 💜 Software Developer • Discord Bot Developer • Minecraft Developer • Open Source Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Building+Powerful+Applications;Discord+Bot+Developer;Minecraft+Developer;Automation+Expert;Always+Learning+Something+New;Open+Source+Contributor;Royal+Purple+Developer+💜" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=850&lines=Hi+I'm+THE_VOID+💜;Full+Stack+Developer;Discord+Bot+Developer;Minecraft+Developer;Automation+Engineer;Always+Learning;Open+Source+Contributor;Turning+Ideas+Into+Reality"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6A0DAD"/>
+<a href="https://github.com/MUSSA45569">
+<img src="https://img.shields.io/github/followers/MUSSA45569?style=for-the-badge&logo=github&color=6A0DAD&labelColor=21002E">
+</a>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6A0DAD&labelColor=1A001A"/>
+<a href="https://github.com/MUSSA45569">
+<img src="https://img.shields.io/github/stars/MUSSA45569?style=for-the-badge&logo=github&color=8A2BE2&labelColor=21002E">
+</a>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=6A0DAD&labelColor=1A001A"/>
+<img src="https://komarev.com/ghpvc/?username=MUSSA45569&style=for-the-badge&color=6A0DAD">
 
-<img src="https://img.shields.io/badge/Open%20Source-Love-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Profile-Royal%20Purple-8A2BE2?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Profile-Royal%20Purple-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-❤-purple?style=for-the-badge">
 
 </div>
 
 ---
 
-# 👋 About Me
+# 💜 About Me
 
 ```yaml
 Name: THE_VOID
 
 Alias: TheVoidDev
 
-Role: Full Stack Developer
+GitHub:
+  https://github.com/MUSSA45569
 
-Experience: Building Software & Automation
+Repository:
+  https://github.com/MUSSA45569/TheVoidDev
+
+Role:
+  Full Stack Developer
 
 Specialization:
-  - Discord Bots
-  - Minecraft Development
-  - Web Applications
-  - APIs
-  - Automation
-  - Custom Tools
+  • Discord Bots
+  • Minecraft Development
+  • Automation
+  • Web Applications
+  • APIs
+  • Open Source
 
-Status: 🟢 Active
+Status:
+  Active 🟢
 
-Current Goal:
-  Create high-quality software
-  and contribute to Open Source.
+Goal:
+  Build software that is clean,
+  useful and enjoyable to use.
 ```
 
 ---
 
-# 💜 Philosophy
+# 🚀 What I Build
 
-> **"Great software isn't just written—it is carefully designed, tested, improved, and refined until it becomes something people enjoy using."**
-
----
-
-# 🚀 What I Do
-
-💻 Build custom software
-
-🤖 Develop Discord Bots
-
-🎮 Minecraft Server Development
-
-🌐 Web Development
-
-⚡ Automation Scripts
-
-🔒 Utility Applications
-
-📦 Open Source Projects
-
-🛠️ APIs & Integrations
-
-☁️ Cloud Learning
+- 🤖 Discord Bots
+- 🎮 Minecraft Plugins
+- 🌍 Websites
+- ⚡ Automation Tools
+- 🛠 Desktop Applications
+- 🔒 Utility Software
+- ☁ Cloud Projects
+- 📦 Open Source Libraries
+- 🔗 REST APIs
+- 📊 Dashboards
 
 ---
 
-# ⚡ Languages
+# 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,html,css,php"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,html,css&perline=9"/>
 
 </p>
 
 ---
 
-# 🛠 Frameworks
+# ⚙ Frameworks
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,electron,discordjs"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,react,nextjs,electron,bootstrap"/>
 
 </p>
 
@@ -114,21 +110,21 @@ Current Goal:
 
 ---
 
-# ☁️ DevOps & Cloud
+# ☁ Cloud & DevOps
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,cloudflare"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,cloudflare,vercel"/>
 
 </p>
 
 ---
 
-# 🖥 Development Tools
+# 🛠 Development Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,npm,yarn"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,postman,npm,yarn"/>
 
 </p>
 
@@ -138,9 +134,9 @@ Current Goal:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUSSA45569&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSSA45569&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </p>
 
@@ -150,46 +146,63 @@ Current Goal:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MUSSA45569&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy Cabinet
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MUSSA45569&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUSSA45569&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Featured Repository
 
-- 💬 Discord: **the_void_mod**
-- 🆔 Discord ID: **1297901510679597188**
-- 🌍 GitHub: **https://github.com/YOUR_USERNAME**
+## 🌌 TheVoidDev
+
+A growing collection of software, automation projects, Discord bots, Minecraft utilities, and development experiments.
+
+🔗 Repository:
+https://github.com/MUSSA45569/TheVoidDev
+
+---
+
+# 🌐 Connect
+
+### Discord
+
+**Username:** `the_void_mod`
+
+**Discord ID:** `1297901510679597188`
+
+### GitHub
+
+https://github.com/MUSSA45569
 
 ---
 
 <div align="center">
 
-## 💜 Thanks for Visiting!
+## 💜 Quote
 
-*"Code with passion. Build with purpose. Never stop learning."*
+> **"Write code with purpose. Learn without limits. Build the future one commit at a time."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=6A0DAD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=6A0DAD"/>
 
 </div>
