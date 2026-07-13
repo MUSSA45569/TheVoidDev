@@ -1,10 +1,9 @@
 <div align="center">
 
 <img width="100%" src="./assets/banner.svg" alt="THE_VOID Banner"/>
-
 <img width="100%" src="./assets/purple-bg.svg"/>
 
-<br>
+<br><br>
 
 <img src="./assets/logo.svg" width="150" alt="THE_VOID Logo">
 
@@ -15,12 +14,12 @@
 <br>
 
 <a href="https://github.com/MUSSA45569">
-  <img src="https://img.shields.io/github/followers/MUSSA45569?style=for-the-badge&logo=github&color=6A0DAD&labelColor=21002E">
+  <img src="https://img.shields.io/github/followers/MUSSA45569?style=for-the-badge&logo=github&color=6A0DAD&labelColor=21002E"/>
 </a>
 <a href="https://github.com/MUSSA45569">
-  <img src="https://img.shields.io/github/stars/MUSSA45569?style=for-the-badge&logo=github&color=8A2BE2&labelColor=21002E">
+  <img src="https://img.shields.io/github/stars/MUSSA45569?style=for-the-badge&logo=github&color=8A2BE2&labelColor=21002E"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=MUSSA45569&style=for-the-badge&color=6A0DAD" alt="Views">
+<img src="https://komarev.com/ghpvc/?username=MUSSA45569&style=for-the-badge&color=6A0DAD" alt="Views"/>
 
 </div>
 
@@ -29,14 +28,19 @@
 # 💜 About Me
 
 ```yaml
-Name: THE_VOID
-Alias: TheVoidDev
-GitHub: [https://github.com/MUSSA45569](https://github.com/MUSSA45569)
-Repository: [https://github.com/MUSSA45569/TheVoidDev](https://github.com/MUSSA45569/TheVoidDev)
-Role: Full Stack Developer
-Specialization:
-  - Discord Bots
-  - Minecraft Development
-  - Automation Tools
-  - Web Applications
-Status: Active 🟢
+Identity:
+  Name: THE_VOID
+  Alias: TheVoidDev
+  Status: Active 🟢
+
+Engineering:
+  Role: Full Stack Developer
+  Specialization:
+    - Discord Bots & Automation
+    - Minecraft Infrastructure & Custom Tools
+    - Web Applications & REST APIs
+    - Open Source Solutions
+
+End-Points:
+  GitHub: [https://github.com/MUSSA45569](https://github.com/MUSSA45569)
+  Main-Repo: [https://github.com/MUSSA45569/TheVoidDev](https://github.com/MUSSA45569/TheVoidDev)
