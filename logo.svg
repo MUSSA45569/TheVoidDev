@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#6B21A8"/>
+    </linearGradient>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <polygon points="250,20 450,135 450,365 250,480 50,365 50,135" fill="none" stroke="url(#logoGrad)" stroke-width="12" filter="url(#neonGlow)"/>
+  <path d="M140,160 L250,380 L360,160 L310,160 L250,280 L190,160 Z" fill="#FFFFFF" filter="url(#neonGlow)"/>
+  <path d="M160,160 L250,340 L340,160 L310,160 L250,280 L190,160 Z" fill="url(#logoGrad)"/>
+</svg>

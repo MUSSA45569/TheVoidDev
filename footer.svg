@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 120" width="100%">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4C1D95"/>
+      <stop offset="50%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C320,90 480,10 800,50 C1120,90 1280,20 1600,60 L1600,120 L0,120 Z" fill="url(#footerGrad)"/>
+  <text x="50%" y="95" text-anchor="middle" fill="#E9D5FF" font-family="Segoe UI, sans-serif" font-size="14" font-weight="600" letter-spacing="2">⚡ POWERED BY THE_VOID ⚡</text>
+</svg>
